@@ -35,3 +35,10 @@ function fizzbuzz(n)
 ## Work experience:
 Nothing yet :)
 Only like as a doctor for 4 years.
+## Education and courses:
+* Video courses on YouTube channel Artsiom Rusau QA Life
+* JavaScript https://learn.javascript.ru/
+* LeverX: Intro to IT course
+* EPAM: Automated Testing Foundations with JavaScript
+## Language:
+English level - A2 (I have some speaking practice)
